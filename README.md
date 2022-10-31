@@ -9,3 +9,6 @@
 Add fix
 
 Добавил коммит из IDE
+
+https://gitlab.com/aleksandr-Shubin-83/devops-netology
+https://github.com/aleksandr-Shubin-83/devops-netology
